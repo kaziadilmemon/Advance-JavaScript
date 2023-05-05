@@ -7,3 +7,12 @@ const a = async (text) => {
     }, 2000)
   })
 }
+
+(
+  async () => {
+    let text = await a("Hello")
+    console.log(text)
+    text = await a("World")
+    console.log(text)
+  }
+)()
