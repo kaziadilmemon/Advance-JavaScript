@@ -1,7 +1,5 @@
-<video width="320" height="240" autoplay loop muted>
-  <source src="movie.mp4" type="video/mp4" />
-</video>
-<img loop="https://user-images.githubusercontent.com/96164867/236640417-b98f4c8a-d442-4546-a3bc-6749a2f28846.mp4">
+
+![cold, smooth   tasty](https://user-images.githubusercontent.com/96164867/236640854-8e71e1a7-96b0-4461-98f7-5fbe376f3f7d.png)
 
 # Advance JavaScript!
 This repository contains the code of Advance JavaScript with the Practice Questions   
