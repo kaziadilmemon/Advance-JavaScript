@@ -1,7 +1,7 @@
 
 ![cold, smooth   tasty](https://user-images.githubusercontent.com/96164867/236640854-8e71e1a7-96b0-4461-98f7-5fbe376f3f7d.png)
 
-# Advance JavaScript!
+# Hello Developers!
 This repository contains the code of Advance JavaScript with the Practice Questions   
 #  Content
 * LIFE (ImmedImmediately Invoked Functions Expressions).
